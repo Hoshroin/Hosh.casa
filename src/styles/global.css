@@ -1,0 +1,24 @@
+html {
+  background-color: #0f1413;
+  font-family: serif, Times New Roman;
+}
+
+body {
+  margin: 0 auto;
+  width: 100%;
+  padding: 1rem;
+  line-height: 1.5;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+li, p, h1, h2, h3, h4, h5, h6 {
+  color: #dde9f0;
+}
+
+a {
+  text-decoration: none;
+  color: #54a7c4;
+}
